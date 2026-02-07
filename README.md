@@ -1,6 +1,3 @@
-Got it! Here's a **concise, polished GitHub-ready README** in proper markdown format with badges, quick setup instructions, and a professional first-look style:
-
----
 
 # Heart Disease Prediction 🫀
 
